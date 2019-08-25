@@ -1,0 +1,22 @@
+{
+    "persons": [
+        {
+            "name": "Diego",
+            "lname": "Salas",
+            "age": 20,
+            "email": "dsalas035@gmail.com"
+        },
+        {
+            "name": "Martin",
+            "lname": "Melo Godinez",
+            "age": 22,
+            "email": "martimelo@actosoft.com"
+        },
+        {
+            "name": "Yagel",
+            "lname": "Salazar Reyes",
+            "age": 22,
+            "email": "yagels.xd@gmail.com"
+        }
+    ]
+}
